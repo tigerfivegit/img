@@ -1,0 +1,49 @@
+{
+  "code": 200
+  ,"msg": "成功"
+  ,"count": 7
+  ,"data": [{
+    "id": "1"
+    ,"username": "杜甫"
+    ,"email": "test1@email.com"
+    ,"sex": "男"
+    ,"city": "北京"
+  }, {
+    "id": "2"
+    ,"username": "王勃"
+    ,"email": "test2@email.com"
+    ,"sex": "男"
+    ,"city": "上海"
+
+  }, {
+    "id": "3"
+    ,"username": "李清照"
+    ,"email": "test3@email.com"
+    ,"sex": "女"
+    ,"city": "杭州"
+  }, {
+    "id": "4"
+    ,"username": "冰心"
+    ,"email": "test4@email.com"
+    ,"sex": "女"
+    ,"city": "广州"
+  }, {
+    "id": "5"
+    ,"username": "欣欣"
+    ,"email": "test5@email.com"
+    ,"sex": "女"
+    ,"city": "深圳"
+  }, {
+    "id": "6"
+    ,"username": "美丽"
+    ,"email": "test6@email.com"
+    ,"sex": "女"
+    ,"city": "上海"
+  }, {
+    "id": "7"
+    ,"username": "想想"
+    ,"email": "test7@email.com"
+    ,"sex": "女"
+    ,"city": "广州"
+  }]
+}  
